@@ -11,6 +11,6 @@ public class Main
 
         miasta.add(będzin);
 
-        System.out.println(/*nie wiem jak to pokazac*/);
+        System.out.println(miasta.toString());
     }
 }
